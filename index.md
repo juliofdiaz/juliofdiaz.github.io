@@ -19,4 +19,4 @@ I'm a PhD student in the lab of <a href="{{page.boss_web}}">Dr. {{page.boss}}</a
 <a href="">Other Stuff</a>
 <br>
 <br>
-    <a>Resume</a>
+    <a href="">Resume</a>
